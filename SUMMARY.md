@@ -10,3 +10,6 @@
   * [文字を3行表示させてみよう](docs/first_programming/challenge.md)
   * [クイズ](docs/first_programming/quiz.md)
   * [ブレークタイム](docs/first_programming/breaktime.md)
+* [プログラミングの基礎を学ぼう](docs/learn_programming1/README.md)
+  * [ループ処理](/docs/learn_programming1/loop.md)
+  * [if文（もしもあの時・・・）](/docs/learn_programming1/if.md)
