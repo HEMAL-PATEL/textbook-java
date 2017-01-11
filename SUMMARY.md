@@ -1,6 +1,12 @@
 # SUMMARY
-
-* [docs](docs/README.md)
-  * [first](docs/first.md)
-  * [second](docs/second.md)
-  * [third](docs/third.md)
+* [はじめに](README.md)
+  * [Javaとは？](docs/introduction/about_java.md)
+  * [Java のインストール（Windows）](docs/introduction/install_windows.md)
+  * [Java のインストール（Mac）](docs/introduction/install_mac.md)
+* [さっそくプログラムを動かしてみよう](docs/first_programming/README.md)
+  * [ソースコードの準備](docs/first_programming/prepare_build.md)
+  * [コンパイル作業](docs/first_programming/compile_java.md)
+  * [画面に文字を表示](docs/first_programming/print.md)
+  * [文字を3行表示させてみよう](docs/first_programming/challenge.md)
+  * [クイズ](docs/first_programming/quiz.md)
+  * [ブレークタイム](docs/first_programming/breaktime.md)
