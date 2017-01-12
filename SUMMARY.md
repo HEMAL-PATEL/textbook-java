@@ -17,5 +17,5 @@
   * [if文（もしもあの時・・・）](/docs/learn_programming1/if.md)
   * [配列](/docs/learn_programming1/array.md)
   * [メソッド](/docs/learn_programming1/method.md)
-* [自分のプログラムをもっと動かしやすくしよう](/docs/learn_programming2/README.md)
+* [プログラムをもっと作りやすくしよう](/docs/learn_programming2/README.md)
   * [クラスについて](/docs/learn_programming2/class.md)
