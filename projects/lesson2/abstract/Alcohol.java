@@ -1,0 +1,3 @@
+interface Alcohol {
+  void showPercent();
+}
