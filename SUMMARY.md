@@ -1,8 +1,11 @@
+[comment]: <> (<br>タグは常に行の先頭に置く)
+
 # SUMMARY
 * [はじめに](README.md)
   * [Javaとは？](docs/chapter1/about_java.md)
   * [Java のインストール（Windows）](docs/chapter1/install_windows.md)
   * [Java のインストール（Mac）](docs/chapter1/install_mac.md)
+  * [Eclipse のインストール](docs/chapter1/install_eclipse.md)
 * [さっそくプログラムを動かしてみよう](docs/chapter2/README.md)
   * [ソースコードの準備](docs/chapter2/prepare_build.md)
   * [コンパイル作業](docs/chapter2/compile_java.md)

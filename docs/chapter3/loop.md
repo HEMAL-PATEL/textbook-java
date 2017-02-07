@@ -7,7 +7,7 @@
 # 必要ファイルを準備しよう
 * * * *
 
-新しく"projects"の配下に"lesson2"というフォルダを準備します。
+新しく ```projects``` の配下に ```lesson2``` というフォルダを準備します。
 
 ```
 projects
@@ -15,7 +15,7 @@ projects
    - lesson2
 ```
 
-"lesson2" に"Loop.java"を作成します。
+ lesson2に ```Loop.java``を作成します。
 
 ```
 projects
@@ -24,7 +24,7 @@ projects
         - Loop.java
 ```
 
-"Loop.java"に先ほど作成した3行の文字を表示するコードを追加します。
+Loop.javaに先ほど作成した3行の文字を表示するコードを追加します。
 
 ```
 class Loop {

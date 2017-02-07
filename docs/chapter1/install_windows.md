@@ -18,7 +18,8 @@
 #Javaをインストールする
 * * * *
 ###JDKのダウンロード
-Javaの開発環境を提供している[Oracle社のJDKダウンロードページ](http://www.oracle.com/technetwork/java/javase/downloads/index.html)にアクセスします。<br>
+Javaの開発環境を提供している[Oracle社のJDKダウンロードページ](http://www.oracle.com/technetwork/java/javase/downloads/index.html)にアクセスします。
+<br>
 <br>
 「Java Platform, Standard Edition」という囲みの中の右側にある「JDK DOWNLOAD」ボタンをクリックします。
 <br>
