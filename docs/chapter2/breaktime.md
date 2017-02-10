@@ -2,7 +2,7 @@
 * * * * *
 
 初めてのプログラミングはいかがだったでしょうか。慣れない作業も多く疲れたと思います。ここで少し休憩をとりましょう。
-休憩の前に以下の"OpendBrowser.java"というJavaファイルを新たに作成し以下のコードを書き
+休憩の前に以下の"OpenBrowser.java"というJavaファイルを新たに作成し以下のコードを書き
 コンパイル＆実行してみてください。※今回はコピー＆ペーストで構いません
 
 <br>
@@ -14,7 +14,7 @@ projects
    - lesson1
         -  Hello.java
         -  Hello.class
-        -  OpendBrowser.java
+        -  OpenBrowser.java
 ```
 
 記載するコード
@@ -28,7 +28,7 @@ import java.net.URISyntaxException;
 public class OpenBrowser {
 	public static void main(String[] args) {
 		Desktop desktop = Desktop.getDesktop();
-		String uriString = "http://www.google.co.jp";
+		String uriString = "https://www.youtube.com/";
 		try {
 			URI uri = new URI(uriString);
 			desktop.browse(uri);
