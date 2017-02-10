@@ -94,8 +94,8 @@ class Variable {
     public static void main(String[] args){
         System.out.println("都道府県別の最高人口は");
         System.out.println("東京都");
-        System.out.println("一番人気のある都道府県は");
-        System.out.println("東京都");
+        System.out.println("都道府県別の最低人口は");
+        System.out.println("鳥取県");
     }
 }
 ```
