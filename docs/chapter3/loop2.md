@@ -83,7 +83,7 @@ class Loop2 {
 
 ```
 for(int i = 0;i < 100; i++){
-    if (i = 10){
+    if (i == 10){
         System.out.println("iは10です。");
     } else if (i == 90){
         System.out.println("iは90です。");
