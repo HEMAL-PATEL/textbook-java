@@ -48,7 +48,7 @@ class Array {
 
 ####配列の宣言方法
 ```
-int[] results = new int[3] ←格納した数を入れる
+int[] results = new int[3] ←格納したい数を入れる
 ```
 
 ####配列の代入方法
