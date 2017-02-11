@@ -101,7 +101,7 @@ for(int i = 0;i < 100; i++){
     if (i == 90){
         break;
     }
-    System.out.println("iは10です。");
+    System.out.println(i);
 }
 
 System.out.println("繰り返し終了");
