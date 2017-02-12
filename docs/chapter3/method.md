@@ -164,7 +164,7 @@ class MethodSample {
         int total2 = num3 + num4;
 
         System.out.println(total1);
-        System.out.println(total4);
+        System.out.println(total2);
     }
 }
 ```
