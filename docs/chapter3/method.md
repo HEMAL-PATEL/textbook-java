@@ -228,7 +228,7 @@ class MethodSample {
         int total2 = sum(num3,num4);
 
         System.out.println(total1);
-        System.out.println(total4);
+        System.out.println(total2);
     }
 
     public static int sum(int num1,int num2){
