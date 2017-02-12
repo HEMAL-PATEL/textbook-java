@@ -70,7 +70,7 @@ public void メソッドの名前(){
 ```
 class MethodSample {
     public static void main(String[] args){
-        System.out.println("Hello World");
+        sayHello();
     }
 
     public void sayHello(){
