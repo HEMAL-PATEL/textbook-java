@@ -100,6 +100,7 @@ Hello
 ```
 
 ###戻り値の受取
+
 ```
 class MethodSample {
     public static void main(String[] args){
@@ -111,6 +112,7 @@ class MethodSample {
         return "Hello";
     }
 }
+```
 
 ###結果
 
@@ -119,6 +121,7 @@ Hello
 ```
 
 ###引数を入れる
+
 次に引数というものを作成してみます。
 引数は``` public 戻り値 (引数1,引数2){}```で作成することが出来ます。<br>
 引数はStringやintなど変数の型などを指定することができます。<br>
@@ -135,6 +138,8 @@ class MethodSample {
         return text;
     }
 }
+
+```
 
 ###結果
 
@@ -176,6 +181,7 @@ class MethodSample {
 
 ###答え
 こちらの2つが同じように足し算をしていることが分かります。
+
 ```
 int total1 = num1 + num2;
 int total2 = num3 + num4;
@@ -192,8 +198,8 @@ public int
 
 ###メソッドの名前を決める
 メソッドはどんな処理をするのかが分かるような名前にするのが望ましいです。
-<br>
 ここではsumとします。
+
 ```
 public int sum
 ```
@@ -208,6 +214,7 @@ public static int sum(int num1,int num2){
 ```
 
 ###足し算を作ってreturnで返す
+
 ```
 public static int sum(int num1,int num2){
     return num1 + num2;
@@ -215,6 +222,7 @@ public static int sum(int num1,int num2){
 ```
 
 これを最初のコードに応用します。
+
 ```
 class MethodSample {
     public static void main(String[] args){
@@ -238,6 +246,7 @@ class MethodSample {
 ```
 
 ###結果
+
 ```
 36
 139
