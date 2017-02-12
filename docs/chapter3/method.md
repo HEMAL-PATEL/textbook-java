@@ -73,7 +73,7 @@ class MethodSample {
         sayHello();
     }
 
-    public void sayHello(){
+    public static void sayHello(){
         System.out.println("Hello");
     }
 }
@@ -94,7 +94,7 @@ Hello
 戻り値に値を返すにはreturnを使います。
 
 ```
-    public String getHello(){
+    public static String getHello(){
         return "Hello";
     }
 ```
@@ -107,7 +107,7 @@ class MethodSample {
         System.out.println(hello);
     }
 
-    public String getHello(){
+    public static String getHello(){
         return "Hello";
     }
 }
@@ -131,7 +131,7 @@ class MethodSample {
         System.out.println(text);
     }
 
-    public String getText(String text){
+    public static String getText(String text){
         return text;
     }
 }
@@ -202,14 +202,14 @@ public int sum
 今回はint型の変数が2つ必要なので2つ定義します。
 
 ```
-public int sum(int num1,int num2){
+public static int sum(int num1,int num2){
 
 }
 ```
 
 ###足し算を作ってreturnで返す
 ```
-public int sum(int num1,int num2){
+public static int sum(int num1,int num2){
     return num1 + num2;
 }
 ```
@@ -231,7 +231,7 @@ class MethodSample {
         System.out.println(total4);
     }
 
-    public int sum(int num1,int num2){
+    public static int sum(int num1,int num2){
         return num1 + num2;
     }
 }
